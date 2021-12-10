@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm ASRAFUL</h1>
 <h3 align="center"> <a href="https://asraful-portfolio.netlify.app/" >Portfolio</a></h3>
 
-<p>I am Asraful, a full-stack web developer from Bangladesh. I am passionate about building excellent software that improves the lives of those around me. javaScript is my first programming language and I build some web applications using javascript, Django, DRF, API. In my professional experience. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
+<p>I am Asraful, a full-stack web developer from Bangladesh. I am passionate about building excellent software that improves the lives of those around me. javaScript is my first programming language. In my professional experience. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
 Programming is my passion and I love to play with the error.</p>
 
 
