@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif?raw=true" width="400" height="280" border-Radius="50"/>
+<img align="right" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif?raw=true" width="400" height="300" border-Radius="50"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm ASRAFUL</h1>
 <h3 align="center"> <a href="https://asraful-portfolio.netlify.app/" >Portfolio</a></h3>
