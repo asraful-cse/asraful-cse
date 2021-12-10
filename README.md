@@ -2,13 +2,13 @@
 <img align="right" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif?raw=true" width="500" height="200" border-Radius="50"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ASRAFUL</h1>
-<h3 align="center"> <a href="asraful-portfolio.netlify.app" >Portfolio</a></h3>
+<h3 align="center"> <a href="https://asraful-portfolio.netlify.app/" >Portfolio</a></h3>
 
-<p>I am Baset, a full-stack web developer from Bangladesh. I am passionate about building excellent software that improves the lives of those around me. Python is my first programming language and I build some web applications using python, Django, DRF, API. In my professional experience, I do some file conversions and automation using python. I have also experienced in Fiver and Upwork marketplaces. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
+<p>I am Asraful, a full-stack web developer from Bangladesh. I am passionate about building excellent software that improves the lives of those around me. javaScript is my first programming language and I build some web applications using javascript, Django, DRF, API. In my professional experience. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
 Programming is my passion and I love to play with the error.</p>
 
 
-<a align="center" href="https://app.daily.dev/Shuvro_75"><img src=""  width="300" alt="shuvro baset's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/Shuvro_75"><img src=""  width="300" alt="Asraful's Dev Card"/></a>
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **BookShelf management system and NodeJs**
