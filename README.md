@@ -1,5 +1,5 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="275"/></a> -->
-<img align="right" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif?raw=true" width="500" height="320" />
+
+<img align="right" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif?raw=true" width="500" height="320" border-radius="50%"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shuvro Baset</h1>
 <h3 align="center"> <a href="https://shuvro-baset.github.io/my-portfolio/" >Portfolio</a></h3>
