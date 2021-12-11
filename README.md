@@ -33,7 +33,7 @@ Programming is my passion and I love to play with the error.</p>
   <a href="#" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/mFYgiuDNZVUSD6sts4/giphy.gif?cid=ecf05e479h6nqsdfhdms8zsp5g26aovz9e2nz52ixwo7kjml&rid=giphy.gif&ct=g"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img  alt="typescript"width="47" height="47"                    src="https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/typescript-for-beginners.png"/></a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/machine-learning"/> </a> 
-      <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif"/> </a>
+      <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611917aa45098cc000cf96270c0c81f8bdd773fc63c&rid=giphy.gif&ct=s"/> </a>
     <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
