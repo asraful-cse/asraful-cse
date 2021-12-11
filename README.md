@@ -32,7 +32,7 @@ Programming is my passion and I love to play with the error.</p>
     <a href="https://getbootstrap.com" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp?cid=ecf05e47l8yuim4n2ucgbqfs5ghaqqzkb280j89rfh9gv4e1&rid=200w.webp&ct=s"/> </a> 
  <a href="https://docs.mongodb.com/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"/> </a> 
   <a href="#" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/mFYgiuDNZVUSD6sts4/giphy.gif?cid=ecf05e479h6nqsdfhdms8zsp5g26aovz9e2nz52ixwo7kjml&rid=giphy.gif&ct=g"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img  alt="typescript"width="47" height="47"                    src="https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/typescript-for-beginners.png"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img  alt="typescript"width="47" height="47" src="https://giphy.com/stickers/ts-selflove-thighsociety-QVJjJ7dtzJkWCs7TpP"/></a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/machine-learning"/> </a> 
       <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="47" height="47" src="https://media3.giphy.com/media/ejfEZhz0nh2kR0SZzn/200w.webp?cid=ecf05e47vofhd6v8mi23dh4b8bz8ealkkk4xjxyoixs73cs3&rid=200w.webp&ct=s"/> </a>
