@@ -32,8 +32,8 @@ Programming is my passion and I love to play with the error.</p>
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
   <a href="#" target="_blank"> <img src="https://img.icons8.com/rest-api/"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img    alt="typescript"
-          width="50"
-          height="50" src="https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/typescript-for-beginners.png"/></a>
+          width="47"
+          height="47" src="https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/typescript-for-beginners.png"/></a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/machine-learning"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
