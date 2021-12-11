@@ -23,7 +23,7 @@ Programming is my passion and I love to play with the error.</p>
 
 - ⚡ Fun fact **I Love to play cricket**
 
-## 🚀 Languages and Tools:
+## <a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img width="47" height="47"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
