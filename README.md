@@ -30,7 +30,7 @@ Programming is my passion and I love to play with the error.</p>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-  <a href="#" target="_blank"> <img width="47" height="47" src="https://davincipayments.s3.amazonaws.com/public/swift/prod/Uploads/APi_Icon_Gif.gif"/> </a>
+  <a href="#" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/mFYgiuDNZVUSD6sts4/giphy.gif?cid=ecf05e479h6nqsdfhdms8zsp5g26aovz9e2nz52ixwo7kjml&rid=giphy.gif&ct=g"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img  alt="typescript"width="47" height="47"                    src="https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/typescript-for-beginners.png"/></a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/machine-learning"/> </a> 
       <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif"/> </a>
