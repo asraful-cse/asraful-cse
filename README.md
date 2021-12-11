@@ -46,8 +46,8 @@ Programming is my passion and I love to play with the error.</p>
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/shuvro-baset/github-readme-stats"><img alt="Shuvro Baset's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shuvro-baset&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/shuvro-baset/github-readme-stats"><img alt="Shuvro Baset's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvro-baset&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -55,7 +55,7 @@ Programming is my passion and I love to play with the error.</p>
 <br/>
 <br/>
 
-<a href="https://github.com/shuvro-baset/github-readme-activity-graph"><img alt="Shuvro Baset's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shuvro-baset&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/asraful196/github-readme-activity-graph"><img alt="Shuvro Baset's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asraful196&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
