@@ -34,7 +34,7 @@ Programming is my passion and I love to play with the error.</p>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img  alt="typescript"width="47" height="47"                    src="https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/typescript-for-beginners.png"/></a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/machine-learning"/> </a> 
       <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="47" height="47" src="https://c.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif"/> </a>
     <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
