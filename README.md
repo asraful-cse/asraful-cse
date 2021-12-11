@@ -37,7 +37,7 @@ Programming is my passion and I love to play with the error.</p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611917aa45098cc000cf96270c0c81f8bdd773fc63c&rid=giphy.gif&ct=s"/> </a>
     <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=200w.webp&ct=s"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.webp"/> </a> 
 </p>
