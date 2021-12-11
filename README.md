@@ -66,7 +66,11 @@ Programming is my passion and I love to play with the error.</p>
 <a href = "https://www.linkedin.com/in/asraful196/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://twitter.com/BasetShuvro"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <a href = "https://www.instagram.com/sunnyashraf12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://www.youtube.com/channel/UCIFr0gT7mIcgCZWE5Sq1VgQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+    <a href = "https://www.youtube.com/channel/UCIFr0gT7mIcgCZWE5Sq1VgQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+    <a href = "https://www.youtube.com/channel/UCIFr0gT7mIcgCZWE5Sq1VgQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+    <a href = "https://www.youtube.com/channel/UCIFr0gT7mIcgCZWE5Sq1VgQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<!-- <a href = "https://www.youtube.com/channel/UCIFr0gT7mIcgCZWE5Sq1VgQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> 
+-->
 
 </p>
 
