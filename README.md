@@ -34,10 +34,10 @@ Programming is my passion and I love to play with the error.</p>
      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
       <a href="https://expressjs.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="48" height="48"/> </a>
  <a href="https://docs.mongodb.com/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
   <a href="#" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/mFYgiuDNZVUSD6sts4/giphy.gif?cid=ecf05e479h6nqsdfhdms8zsp5g26aovz9e2nz52ixwo7kjml&rid=giphy.gif&ct=g"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img  alt="typescript"width="47" height="47" src="https://i.giphy.com/media/QVJjJ7dtzJkWCs7TpP/giphy.webp"/></a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/machine-learning"/> </a> 
-      <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
     <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=200w.webp&ct=s"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
