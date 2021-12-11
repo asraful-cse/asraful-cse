@@ -26,7 +26,7 @@ Programming is my passion and I love to play with the error.</p>
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img  width="47" height="47"src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47lonlwp3anstdkilndyjfu8ta6zcl38dvdw67t02c&rid=giphy.gif&ct=s"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp?cid=ecf05e47l8yuim4n2ucgbqfs5ghaqqzkb280j89rfh9gv4e1&rid=200w.webp&ct=s"/> </a> 
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
