@@ -66,7 +66,7 @@ Programming is my passion and I love to play with the error.</p>
 <a href = "https://www.linkedin.com/in/asraful196/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://web.facebook.com/sunnyashraf12"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/sunnyashraf12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCIFr0gT7mIcgCZWE5Sq1VgQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <!-- <a href = "https://twitter.com/BasetShuvro"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> --><!--     <a href = "https://www.youtube.com/channel/UCIFr0gT7mIcgCZWE5Sq1VgQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 <!-- <a href = "https://www.youtube.com/channel/UCIFr0gT7mIcgCZWE5Sq1VgQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> 
 -->
@@ -75,9 +75,9 @@ Programming is my passion and I love to play with the error.</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shuvro-baset">
+    <img src="https://komarev.com/ghpvc/?username=asraful196">
 </a>
-<a href="https://github.com/shuvro-baset?tab=followers"><img src="https://img.shields.io/github/followers/shuvro-baset?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/asraful196?tab=followers"><img src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
