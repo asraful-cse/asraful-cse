@@ -42,9 +42,9 @@ width="300"   alt="Asraful's Dev Card"/> </a>
 
 <h4 align="right">❤ Views and Followers </h4>
 <a align="right" href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img  src="https://komarev.com/ghpvc/?username=asraful196">
+    <img align="right"  src="https://komarev.com/ghpvc/?username=asraful196">
 </a>
-<a align="right" href="https://github.com/asraful196?tab=followers"><img src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a>
+<a align="right" href="https://github.com/asraful196?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
  
