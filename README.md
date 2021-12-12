@@ -49,7 +49,7 @@ width="300"   alt="Asraful's Dev Card"/> </a>
 <a href = "https://www.instagram.com/sunnyashraf12/"><img width="48" height="48"  src="https://i.giphy.com/media/3oEjHFnRdGNWCbCOXK/200w.webp"/></a>
 <a href = ""><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
 </p>
-
+<br/>
 <h4 align="right">❤ Views and Followers </h4>
 <a align="right" href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img align="right"  src="https://komarev.com/ghpvc/?username=asraful196">
