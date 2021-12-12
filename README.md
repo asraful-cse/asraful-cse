@@ -38,6 +38,7 @@ Programming is my passion and I love to play with the error.</h5>
  
   ##### 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
 </h5>
+ <br/>
  <h4  align="right">Connect with me:</h4>
 <p align="right">
 <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
@@ -51,7 +52,7 @@ Programming is my passion and I love to play with the error.</h5>
     <img align="right"  src="https://komarev.com/ghpvc/?username=asraful196">
 </a>
 <a align="right" href="https://github.com/asraful196?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a>
- 
+  <br/>
 <a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
 width="300"   alt="Asraful's Dev Card"/> </a>
 </br>    
