@@ -9,25 +9,6 @@ Programming is my passion and I love to play with the error.</h6>
 
 <br/>
 <br/>
-<br/>
-
-<a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
-width="300"   alt="Asraful's Dev Card"/> </a>
-
-<h6 align="left">
-    ## 🙋‍♂️ About Me
-🔭 I’m currently working on **BookShelf management system and NodeJs**
-
-🌱 I’m currently learning **React & Data Science**
-
-👯 I’m looking to collaborate on **Remote Job**
-
-👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/asraful196)**
-
-📫 How to reach me **[asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)**
-
- ⚡ Fun fact **I Love to play cricket**
-</h6>
 ## <a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:
 
 <p align="left"> 
@@ -51,6 +32,26 @@ width="300"   alt="Asraful's Dev Card"/> </a>
     <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img width="47" height="47" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
 </p>
+
+<br/>
+
+<a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
+width="300"   alt="Asraful's Dev Card"/> </a>
+
+<h6 align="left">
+    ## 🙋‍♂️ About Me
+🔭 I’m currently working on **BookShelf management system and NodeJs**
+
+🌱 I’m currently learning **React & Data Science**
+
+👯 I’m looking to collaborate on **Remote Job**
+
+👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/asraful196)**
+
+📫 How to reach me **[asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)**
+
+ ⚡ Fun fact **I Love to play cricket**
+</h6>
 
 
 ## 📊 My Github Stats
