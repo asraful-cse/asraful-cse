@@ -28,8 +28,8 @@ Programming is my passion and I love to play with the error.</h5>
 </p>          
 <h2> 🙋‍♂️ About Me </h2>
 <h6>
-* 🌱 I’m currently learning React js, React Native and Next js
-* 👯 I’m looking to collaborate on Remote Job
+🌱 I’m currently learning React js, React Native and Next js
+👯 I’m looking to collaborate on Remote Job
 * 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful196)
 * 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
  </h6>
