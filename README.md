@@ -16,17 +16,17 @@ width="300"   alt="Asraful's Dev Card"/> </a>
 
 <h6 align="left">
     ## 🙋‍♂️ About Me
-<br/>🔭 I’m currently working on **BookShelf management system and NodeJs**
+🔭 I’m currently working on **BookShelf management system and NodeJs**
 
-<br/>🌱 I’m currently learning **React & Data Science**
+🌱 I’m currently learning **React & Data Science**
 
-<br/> 👯 I’m looking to collaborate on **Remote Job**
+👯 I’m looking to collaborate on **Remote Job**
 
-<br/>👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/asraful196)**
+👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/asraful196)**
 
-<br/>📫 How to reach me **[asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)**
+📫 How to reach me **[asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)**
 
-<br/> ⚡ Fun fact **I Love to play cricket**
+ ⚡ Fun fact **I Love to play cricket**
 </h6>
 ## <a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:
 
