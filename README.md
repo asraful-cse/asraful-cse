@@ -30,13 +30,14 @@ Programming is my passion and I love to play with the error.</h5>
 <br/> 
 <a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
 width="300"   alt="Asraful's Dev Card"/> </a>
- <h3>Connect with me:</h3>
+ <br/>
+ <h4  align="right">Connect with me:</h4>
 <p align="right">
 <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
-<a href = "https://www.linkedin.com/in/asraful196/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://web.facebook.com/sunnyashraf12"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/sunnyashraf12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/asraful196/"><img  align="right" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://web.facebook.com/sunnyashraf12"><img   align="right" src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.instagram.com/sunnyashraf12/"><img  align="right" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = ""><img  align="right" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 <h4 align="right">❤ Views and Followers </h4>
