@@ -4,8 +4,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm ASRAFUL</h1>
 <strong align="center"> <a href="https://asraful-portfolio.netlify.app/" >Portfolio</a></strong> || <strong align="center"> <a href="https://drive.google.com/file/d/1tNfWErGkZL9C2kUwi7S--kZOztCN_Ofa/view" >Resume</a></strong>
 
-<p>I am Asraful, a full-stack web developer from Bangladesh. I am passionate about building excellent software that improves the lives of those around me. javaScript is my first programming language. In my professional experience. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
-Programming is my passion and I love to play with the error.</p>
+<h6>I am Asraful, a full-stack web developer from Bangladesh. I am passionate about building excellent software that improves the lives of those around me. javaScript is my first programming language. In my professional experience. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
+Programming is my passion and I love to play with the error.</h6>
 
 
 <a align="right" href="https://app.daily.dev/asraful196"><img  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"  height="300" border-Radius="50" alt="Asraful's Dev Card"/></a>
