@@ -27,12 +27,13 @@ Programming is my passion and I love to play with the error.</h5>
 <a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
 </p>         
 <br/> 
+<br/> 
 <a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk
 width="300"   alt="Asraful's Dev Card"/> </a>
-<h3 align="right"> 📊 My Github Stats </h3>
+<!-- <h3 align="right"> 📊 My Github Stats </h3>
 <h4 align="right"><a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></h4>  
-</br>
+<a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></h4>   -->
+
 <h2> 🙋‍♂️ About Me </h2>
 <h5>🌱 I’m currently learning React js, React Native and Next js       
 👯 I’m looking to collaborate on **Remote Job**       
