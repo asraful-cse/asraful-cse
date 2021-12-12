@@ -34,11 +34,11 @@ width="300"   alt="Asraful's Dev Card"/> </a>
  <br/>
   <h4  align="right">Connect with me:</h4>
 <p align="right">
-<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
-<a href = "https://www.linkedin.com/in/asraful196/"><img  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
-<a href = "https://web.facebook.com/sunnyashraf12"><img  src="https://i.giphy.com/media/XEy1qyv7GdLpmqHEPV/200w.webp"/></a>
-<a href = "https://www.instagram.com/sunnyashraf12/"><img  src="https://i.giphy.com/media/3oEjHFnRdGNWCbCOXK/200w.webp"/></a>
-<a href = ""><img src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
+<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
+<a href = "https://www.linkedin.com/in/asraful196/"><img width="48" height="48"  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
+<a href = "https://web.facebook.com/sunnyashraf12"><img width="48" height="48" src="https://i.giphy.com/media/XEy1qyv7GdLpmqHEPV/200w.webp"/></a>
+<a href = "https://www.instagram.com/sunnyashraf12/"><img width="48" height="48"  src="https://i.giphy.com/media/3oEjHFnRdGNWCbCOXK/200w.webp"/></a>
+<a href = ""><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
 </p>
 
 <h4 align="right">❤ Views and Followers </h4>
