@@ -35,14 +35,15 @@ Programming is my passion and I love to play with the error.</p>
  <a href="https://docs.mongodb.com/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
      <a href="https://reactnative.dev/docs/getting-started" target="_blank"> <img width="59" height="53" src="https://onepatch.com/wp-content/uploads/2020/03/REACT_NATIVE.gif"/> </a>
+     <a href="https://firebase.google.com/" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=200w.webp&ct=s"/> </a>
+     <a href="#" target="_blank"> <img width="53" height="53" src="https://digitalcosmonot.com/static/assets/img/blog/api-yonetimi.gif"/> </a>
            <a href="" target="_blank"> <img width="47" height="47" src="https://i.pinimg.com/originals/8f/c6/a2/8fc6a20dd42803d99e5f782d03916991.gif"/> </a> 
-  <a href="#" target="_blank"> <img width="53" height="53" src="https://digitalcosmonot.com/static/assets/img/blog/api-yonetimi.gif"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img  alt="typescript"width="47" height="47" src="https://i.giphy.com/media/QVJjJ7dtzJkWCs7TpP/giphy.webp"/></a>
-  <a href="https://jwt.io/" target="_blank"> <img  alt="typescript"width="47" height="47" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A"/></a>  
+   <a href="https://jwt.io/" target="_blank"> <img  alt="typescript"width="47" height="47" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A"/></a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img  alt="typescript"width="47" height="47" src="https://i.giphy.com/media/QVJjJ7dtzJkWCs7TpP/giphy.webp"/></a>
         <a href="https://getbootstrap.com" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp?cid=ecf05e47l8yuim4n2ucgbqfs5ghaqqzkb280j89rfh9gv4e1&rid=200w.webp&ct=s"/> </a>
    <a href="#" target="https://react-bootstrap.github.io/"> <img  width="48" height="48" src="https://justinmahar.gallerycdn.vsassets.io/extensions/justinmahar/react-bootstrap-snippets/2.0.13/1635010788809/Microsoft.VisualStudio.Services.Icons.Default"/> </a> 
     <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img width="47" height="47" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=200w.webp&ct=s"/> </a> 
+   
     <a href="" target="_blank"> <img src="https://cdn.dribbble.com/users/469027/screenshots/3243542/untitled-1.gif" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
  
