@@ -9,7 +9,7 @@ Programming is my passion and I love to play with the error.</p>
 
 
 <img  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"  height="300" border-Radius="50" alt="Asraful's Dev Card"/>
-<p align="right">I am Asraful, a full-stack web developer from Bangladesh. I am passionate about building excellent software that improves the lives of those around me. javaScript is my first programming language. In my professional experience. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
+<p >I am Asraful, a full-stack web developer from Bangladesh. I am passionate about building excellent software that improves the lives of those around me. javaScript is my first programming language. In my professional experience. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
 Programming is my passion and I love to play with the error.</p>
 <!-- ## 🙋‍♂️ About Me
 
