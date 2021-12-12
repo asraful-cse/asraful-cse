@@ -1,6 +1,5 @@
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="400" height="300" border-Radius="50"/>
-<!-- https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif?raw=true -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm ASRAFUL</h1>
 <strong align="center"> <a href="https://asraful-portfolio.netlify.app/" >Portfolio</a></strong> || <strong align="center"> <a href="https://drive.google.com/file/d/1tNfWErGkZL9C2kUwi7S--kZOztCN_Ofa/view" >Resume</a></strong>
@@ -9,7 +8,7 @@
 Programming is my passion and I love to play with the error.</p>
 
 
-<a align="center" href="https://app.daily.dev/asraful196"><img src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"  width="300" alt="Asraful's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/asraful196"><img src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"  width="300" alt="Asraful's Dev Card"/></a>
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **BookShelf management system and NodeJs**
