@@ -32,9 +32,8 @@ Programming is my passion and I love to play with the error.</h6>
 <a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
 width="300"   alt="Asraful's Dev Card"/> </a>
 
-<h2 align="left> 🙋‍♂️ About Me </h2>
-<h5 align="left">
-🔭 I’m currently working on **BookShelf management system and NodeJs
+<h2> 🙋‍♂️ About Me </h2>
+<h5>🔭 I’m currently working on **BookShelf management system and NodeJs
           
 🌱 I’m currently learning **React & Data Science**
           
@@ -44,8 +43,7 @@ width="300"   alt="Asraful's Dev Card"/> </a>
           
 📫 How to reach me **[asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)**
           
- ⚡ Fun fact **I Love to play cricket**
-</h5>
+⚡ Fun fact **I Love to play cricket**</h5>
 ## 📊 My Github Stats
 <br/>
     <a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
