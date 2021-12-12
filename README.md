@@ -42,6 +42,7 @@ Programming is my passion and I love to play with the error.</h5>
     <img align="right"  src="https://komarev.com/ghpvc/?username=asraful196">
 </a>
 <a align="right" href="https://github.com/asraful196?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a>
+<br/>
 <a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
 width="300"   alt="Asraful's Dev Card"/> </a>
  <br/>
