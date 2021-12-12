@@ -8,7 +8,7 @@ Programming is my passion and I love to play with the error.</h5>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img width="47" height="47"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img  width="47" height="47" src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47lonlwp3anstdkilndyjfu8ta6zcl38dvdw67t02c&rid=giphy.gif&ct=s"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="47" height="47" src="https://media3.giphy.com/media/ejfEZhz0nh2kR0SZzn/200w.webp?cid=ecf05e47vofhd6v8mi23dh4b8bz8ealkkk4xjxyoixs73cs3&rid=200w.webp&ct=s"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="47" height="47" src=""/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 <a href="https://expressjs.com/" target="_blank"> <img "width="48" height="49" src="https://nashvillesoftwareschool.com/images/technologies/express.png" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
@@ -34,11 +34,11 @@ width="300"   alt="Asraful's Dev Card"/> </a>
  <br/>
   <h4  align="right">Connect with me:</h4>
 <p align="right">
-<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
-<a href = "https://www.linkedin.com/in/asraful196/"><img  src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://web.facebook.com/sunnyashraf12"><img  src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/sunnyashraf12/"><img  src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
+<a href = "https://www.linkedin.com/in/asraful196/"><img  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
+<a href = "https://web.facebook.com/sunnyashraf12"><img  src="https://i.giphy.com/media/XEy1qyv7GdLpmqHEPV/200w.webp"/></a>
+<a href = "https://www.instagram.com/sunnyashraf12/"><img  src="https://i.giphy.com/media/3oEjHFnRdGNWCbCOXK/200w.webp"/></a>
+<a href = ""><img src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
 </p>
 
 <h4 align="right">❤ Views and Followers </h4>
