@@ -36,7 +36,7 @@ Programming is my passion and I love to play with the error.</p>
  <a href="https://docs.mongodb.com/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
      <a href="https://reactnative.dev/docs/getting-started" target="_blank"> <img width="59" height="53" src="https://onepatch.com/wp-content/uploads/2020/03/REACT_NATIVE.gif"/> </a>
-  <a href="#" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/mFYgiuDNZVUSD6sts4/giphy.gif?cid=ecf05e479h6nqsdfhdms8zsp5g26aovz9e2nz52ixwo7kjml&rid=giphy.gif&ct=g"/> </a>
+  <a href="#" target="_blank"> <img width="47" height="47" src="https://digitalcosmonot.com/static/assets/img/blog/api-yonetimi.gif"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img  alt="typescript"width="47" height="47" src="https://i.giphy.com/media/QVJjJ7dtzJkWCs7TpP/giphy.webp"/></a>
   <a href="https://jwt.io/" target="_blank"> <img  alt="typescript"width="47" height="47" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A"/></a>   
    <a href="#" target="_blank"> <img src="https://img.icons8.com/machine-learning"/> </a> 
