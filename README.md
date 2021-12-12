@@ -8,13 +8,12 @@
 Programming is my passion and I love to play with the error.</p>
 
 
-<img  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"  height="300" border-Radius="50" alt="Asraful's Dev Card"/>
-<p >I am Asraful, a full-stack web developer from Bangladesh. I am passionate about building excellent software that improves the lives of those around me. javaScript is my first programming language. In my professional experience. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
-Programming is my passion and I love to play with the error.</p>
-<!-- ## 🙋‍♂️ About Me
+<a align="right" href="https://app.daily.dev/asraful196"><img  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"  height="300" border-Radius="50" alt="Asraful's Dev Card"/>
+
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **BookShelf management system and NodeJs**
-<a align="right" href="https://app.daily.dev/asraful196">
+
 - 🌱 I’m currently learning **React & Data Science**
 
 - 👯 I’m looking to collaborate on **Remote Job**
@@ -23,7 +22,7 @@ Programming is my passion and I love to play with the error.</p>
 
 - 📫 How to reach me **[asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)**
 
-- ⚡ Fun fact **I Love to play cricket** -->
+- ⚡ Fun fact **I Love to play cricket**
 
 ## <a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:
 
