@@ -25,20 +25,17 @@ Programming is my passion and I love to play with the error.</h5>
 <a href="https://mui.com/" target="https://mui.com/"> <img  width="48" height="48" src="https://blog.logrocket.com/wp-content/uploads/2020/09/3waystoaddcustomfontstoyourMaterialUIproject.png"/> </a> 
 <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img width="47" height="47" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
-</p>         
-<br/> 
+</p>          
 <h2> 🙋‍♂️ About Me </h2>
 <h5>
 🌱 I’m currently learning React js, React Native and Next js
  
 👯 I’m looking to collaborate on Remote Job
- 
  ##### 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful196)
- 
-  ##### 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
+ ##### 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
 </h5>
  <br/>
- <h4  align="right">Connect with me:</h4>
+ <h3  align="right">Connect with me:</h3>
 <p align="right">
 <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
 <a href = "https://www.linkedin.com/in/asraful196/"><img width="48" height="48"  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
@@ -46,7 +43,7 @@ Programming is my passion and I love to play with the error.</h5>
 <a href = "https://www.instagram.com/sunnyashraf12/"><img width="48" height="48"  src="https://i.giphy.com/media/3oEjHFnRdGNWCbCOXK/200w.webp"/></a>
 <a href = ""><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
 </p>
-<h4 align="right">❤ Views and Followers </h4>
+<h3 align="right"> Views and Followers </h3>
 <a align="right" href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img align="right"  src="https://komarev.com/ghpvc/?username=asraful196">
 </a>
