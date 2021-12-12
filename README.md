@@ -6,34 +6,32 @@ Programming is my passion and I love to play with the error.</h5>
 <br/>
 <h3><a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img width="47" height="47"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img  width="47" height="47" src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47lonlwp3anstdkilndyjfu8ta6zcl38dvdw67t02c&rid=giphy.gif&ct=s"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="47" height="47" src="https://media3.giphy.com/media/ejfEZhz0nh2kR0SZzn/200w.webp?cid=ecf05e47vofhd6v8mi23dh4b8bz8ealkkk4xjxyoixs73cs3&rid=200w.webp&ct=s"/> </a>
-     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-      <a href="https://expressjs.com/" target="_blank"> <img "width="48" height="49" src="https://nashvillesoftwareschool.com/images/technologies/express.png" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
-     <a href="https://reactnative.dev/docs/getting-started" target="_blank"> <img width="59" height="53" src="https://onepatch.com/wp-content/uploads/2020/03/REACT_NATIVE.gif"/> </a>
-          <a href="#" target="_blank"> <img width="53" height="53" src="https://digitalcosmonot.com/static/assets/img/blog/api-yonetimi.gif"/> </a>
-     <a href="https://firebase.google.com/" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=200w.webp&ct=s"/> </a>
-           <a href="https://stripe.com/" target="https://stripe.com/"> <img width="40" height="46" src="https://i.pinimg.com/originals/8f/c6/a2/8fc6a20dd42803d99e5f782d03916991.gif"/> </a> 
-   <a href="https://jwt.io/" target="_blank"> <img  alt="typescript "width="47" height="47" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A"/></a> 
-    <a href="https://www.typescriptlang.org/" target="https://www.typescriptlang.org/"> <img  alt="typescript"width="47" height="47" src="https://i.giphy.com/media/QVJjJ7dtzJkWCs7TpP/giphy.webp"/></a>
-                    <a href="https://id.heroku.com/login" target="_blank"> <img width="40" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTppCE70mE3hKVnWK7Ru1HKJXuwqgyUeBLBmQ&usqp=CAU"/> </a>
-        <a href="https://getbootstrap.com" target="https://getbootstrap.com"> <img width="47" height="47" src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp?cid=ecf05e47l8yuim4n2ucgbqfs5ghaqqzkb280j89rfh9gv4e1&rid=200w.webp&ct=s"/> </a>
-   <a href="https://react-bootstrap.github.io/" target="https://react-bootstrap.github.io/"> <img  width="48" height="48" src="https://justinmahar.gallerycdn.vsassets.io/extensions/justinmahar/react-bootstrap-snippets/2.0.13/1635010788809/Microsoft.VisualStudio.Services.Icons.Default"/> </a> 
-     <a href="https://tailwindcss.com/" target="https://tailwindcss.com/"> <img  width="52" height="52" src="https://media3.giphy.com/media/Vi5ogXQO4mzRsATl5r/200w.webp"/> </a>
-      <a href="https://mui.com/" target="https://mui.com/"> <img  width="48" height="48" src="https://blog.logrocket.com/wp-content/uploads/2020/09/3waystoaddcustomfontstoyourMaterialUIproject.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img width="47" height="47" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img width="47" height="47"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img  width="47" height="47" src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47lonlwp3anstdkilndyjfu8ta6zcl38dvdw67t02c&rid=giphy.gif&ct=s"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="47" height="47" src="https://media3.giphy.com/media/ejfEZhz0nh2kR0SZzn/200w.webp?cid=ecf05e47vofhd6v8mi23dh4b8bz8ealkkk4xjxyoixs73cs3&rid=200w.webp&ct=s"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+<a href="https://expressjs.com/" target="_blank"> <img "width="48" height="49" src="https://nashvillesoftwareschool.com/images/technologies/express.png" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
+<a href="https://reactnative.dev/docs/getting-started" target="_blank"> <img width="59" height="53" src="https://onepatch.com/wp-content/uploads/2020/03/REACT_NATIVE.gif"/> </a>
+<a href="#" target="_blank"> <img width="53" height="53" src="https://digitalcosmonot.com/static/assets/img/blog/api-yonetimi.gif"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=200w.webp&ct=s"/> </a>
+<a href="https://stripe.com/" target="https://stripe.com/"> <img width="40" height="46" src="https://i.pinimg.com/originals/8f/c6/a2/8fc6a20dd42803d99e5f782d03916991.gif"/> </a> 
+<a href="https://jwt.io/" target="_blank"> <img  alt="typescript "width="47" height="47" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A"/></a> 
+<a href="https://www.typescriptlang.org/" target="https://www.typescriptlang.org/"> <img  alt="typescript"width="47" height="47" src="https://i.giphy.com/media/QVJjJ7dtzJkWCs7TpP/giphy.webp"/></a>
+<a href="https://id.heroku.com/login" target="_blank"> <img width="40" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTppCE70mE3hKVnWK7Ru1HKJXuwqgyUeBLBmQ&usqp=CAU"/> </a>
+<a href="https://getbootstrap.com" target="https://getbootstrap.com"> <img width="47" height="47" src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp?cid=ecf05e47l8yuim4n2ucgbqfs5ghaqqzkb280j89rfh9gv4e1&rid=200w.webp&ct=s"/> </a>
+<a href="https://react-bootstrap.github.io/" target="https://react-bootstrap.github.io/"> <img  width="48" height="48" src="https://justinmahar.gallerycdn.vsassets.io/extensions/justinmahar/react-bootstrap-snippets/2.0.13/1635010788809/Microsoft.VisualStudio.Services.Icons.Default"/> </a> 
+<a href="https://tailwindcss.com/" target="https://tailwindcss.com/"> <img  width="52" height="52" src="https://media3.giphy.com/media/Vi5ogXQO4mzRsATl5r/200w.webp"/> </a>
+<a href="https://mui.com/" target="https://mui.com/"> <img  width="48" height="48" src="https://blog.logrocket.com/wp-content/uploads/2020/09/3waystoaddcustomfontstoyourMaterialUIproject.png"/> </a> 
+<a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img width="47" height="47" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
 </p>         
-<br/>
+<br/> 
 <a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk
 width="300"   alt="Asraful's Dev Card"/> </a>
-<h3> 📊 My Github Stats </h3>
-<h3 align="right">
-<a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</h3>  
+<h3 align="right"> 📊 My Github Stats </h3>
+<h4 align="right"><a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></h4>  
 </br>
 <h2> 🙋‍♂️ About Me </h2>
 <h5>🌱 I’m currently learning React js, React Native and Next js       
