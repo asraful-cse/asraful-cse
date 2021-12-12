@@ -12,21 +12,21 @@ Programming is my passion and I love to play with the error.</h6>
 <br/>
 <br/>
 
-<a align="right" href="https://app.daily.dev/asraful196"><img  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"  height="300" border-Radius="50" alt="Asraful's Dev Card"/></a>
-
+<img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"  height="300" border-Radius="50" alt="Asraful's Dev Card"/>
+<!-- <a  href="https://app.daily.dev/asraful196"> </a> -->
 <!-- ## 🙋‍♂️ About Me -->
 <h6 align="left">
-- 🔭 I’m currently working on **BookShelf management system and NodeJs**
+<br/>🔭 I’m currently working on **BookShelf management system and NodeJs**
 
-- 🌱 I’m currently learning **React & Data Science**
+<br/>🌱 I’m currently learning **React & Data Science**
 
-- 👯 I’m looking to collaborate on **Remote Job**
+<br/> 👯 I’m looking to collaborate on **Remote Job**
 
-- 👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/asraful196)**
+<br/>👨‍💻 All of my projects are available at **[coming soon](https://https://github.com/asraful196)**
 
-- 📫 How to reach me **[asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)**
+<br/>📫 How to reach me **[asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)**
 
-- ⚡ Fun fact **I Love to play cricket**
+<br/> ⚡ Fun fact **I Love to play cricket**
 </h6>
 ## <a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:
 
