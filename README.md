@@ -34,8 +34,9 @@ Programming is my passion and I love to play with the error.</p>
       <a href="https://expressjs.com/" target="_blank"> <img "width="48" height="49" src="https://nashvillesoftwareschool.com/images/technologies/express.png" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
      <a href="https://reactnative.dev/docs/getting-started" target="_blank"> <img width="59" height="53" src="https://onepatch.com/wp-content/uploads/2020/03/REACT_NATIVE.gif"/> </a>
+          <a href="#" target="_blank"> <img width="53" height="53" src="https://digitalcosmonot.com/static/assets/img/blog/api-yonetimi.gif"/> </a>
      <a href="https://firebase.google.com/" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=200w.webp&ct=s"/> </a>
-     <a href="#" target="_blank"> <img width="53" height="53" src="https://digitalcosmonot.com/static/assets/img/blog/api-yonetimi.gif"/> </a>
+          <a href="https://id.heroku.com/login" target="_blank"> <img width="53" height="53" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITqLdA6NwyiJTEjo5Fqh18uqTkWN9TVDR1g&usqp=CAU"/> </a>
            <a href="https://stripe.com/" target="https://stripe.com/"> <img width="47" height="42" src="https://i.pinimg.com/originals/8f/c6/a2/8fc6a20dd42803d99e5f782d03916991.gif"/> </a> 
    <a href="https://jwt.io/" target="_blank"> <img  alt="typescript "width="47" height="47" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A"/></a> 
     <a href="https://www.typescriptlang.org/" target="https://www.typescriptlang.org/"> <img  alt="typescript"width="47" height="47" src="https://i.giphy.com/media/QVJjJ7dtzJkWCs7TpP/giphy.webp"/></a>
