@@ -30,16 +30,31 @@ Programming is my passion and I love to play with the error.</h5>
 <br/> 
 <a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
 width="300"   alt="Asraful's Dev Card"/> </a>
+ <h3>Connect with me:</h3>
+<p align="right">
+<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
+<a href = "https://www.linkedin.com/in/asraful196/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://web.facebook.com/sunnyashraf12"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.instagram.com/sunnyashraf12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+</p>
+
+<h4 align="right">❤ Views and Followers </h4>
+<a align="right" href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img align="right" src="https://komarev.com/ghpvc/?username=asraful196">
+</a>
+<a align="right" href="https://github.com/asraful196?tab=followers"><img src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+ 
 <h2> 🙋‍♂️ About Me </h2>
 
 <h5>
 🌱 I’m currently learning React js, React Native and Next js
  
 👯 I’m looking to collaborate on **Remote Job 
- 
-##### 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful196)
-  
-##### 📫 How to reach me **[asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
+ ##### 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful196)
+  ##### 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
 </h5>
 </br>    
 <a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -49,27 +64,6 @@ width="300"   alt="Asraful's Dev Card"/> </a>
 </br> 
 <a href="https://github.com/asraful196/github-readme-activity-graph"><img alt="Shuvro Baset's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asraful196&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </br>
-<h3>Connect with me:</h3>
-<p align="left">
-<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
-<a href = "https://www.linkedin.com/in/asraful196/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://web.facebook.com/sunnyashraf12"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/sunnyashraf12/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<!-- <a href = "https://twitter.com/BasetShuvro"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> --><!--     <a href = "https://www.youtube.com/channel/UCIFr0gT7mIcgCZWE5Sq1VgQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-<!-- <a href = "https://www.youtube.com/channel/UCIFr0gT7mIcgCZWE5Sq1VgQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> 
--->
-</p>
-
-<h3>❤ Views and Followers </h3>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=asraful196">
-</a>
-<a href="https://github.com/asraful196?tab=followers"><img src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-
-
 <!-- 
 ### Hello World, I'm Anna  👋
 
