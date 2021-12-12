@@ -29,7 +29,6 @@ Programming is my passion and I love to play with the error.</p>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img width="47" height="47"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img  width="47" height="47" src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47lonlwp3anstdkilndyjfu8ta6zcl38dvdw67t02c&rid=giphy.gif&ct=s"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp?cid=ecf05e47l8yuim4n2ucgbqfs5ghaqqzkb280j89rfh9gv4e1&rid=200w.webp&ct=s"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="47" height="47" src="https://media3.giphy.com/media/ejfEZhz0nh2kR0SZzn/200w.webp?cid=ecf05e47vofhd6v8mi23dh4b8bz8ealkkk4xjxyoixs73cs3&rid=200w.webp&ct=s"/> </a>
      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
       <a href="https://expressjs.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="48" height="48"/> </a>
@@ -38,7 +37,8 @@ Programming is my passion and I love to play with the error.</p>
      <a href="https://reactnative.dev/docs/getting-started" target="_blank"> <img width="59" height="53" src="https://onepatch.com/wp-content/uploads/2020/03/REACT_NATIVE.gif"/> </a>
   <a href="#" target="_blank"> <img width="53" height="53" src="https://digitalcosmonot.com/static/assets/img/blog/api-yonetimi.gif"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img  alt="typescript"width="47" height="47" src="https://i.giphy.com/media/QVJjJ7dtzJkWCs7TpP/giphy.webp"/></a>
-  <a href="https://jwt.io/" target="_blank"> <img  alt="typescript"width="47" height="47" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A"/></a>   
+  <a href="https://jwt.io/" target="_blank"> <img  alt="typescript"width="47" height="47" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A"/></a>  
+        <a href="https://getbootstrap.com" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp?cid=ecf05e47l8yuim4n2ucgbqfs5ghaqqzkb280j89rfh9gv4e1&rid=200w.webp&ct=s"/> </a>
    <a href="#" target="https://react-bootstrap.github.io/"> <img  width="48" height="48" src="https://justinmahar.gallerycdn.vsassets.io/extensions/justinmahar/react-bootstrap-snippets/2.0.13/1635010788809/Microsoft.VisualStudio.Services.Icons.Default"/> </a> 
     <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img width="47" height="47" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=200w.webp&ct=s"/> </a> 
