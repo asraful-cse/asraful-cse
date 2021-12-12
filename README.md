@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="400" height="300" border-Radius="50"/>
+<img align="right" alt="GIF" src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="400" height="300" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm ASRAFUL</h1>
 <strong align="center"> <a href="https://asraful-portfolio.netlify.app/" >Portfolio</a></strong> || <strong align="center"> <a href="https://drive.google.com/file/d/1tNfWErGkZL9C2kUwi7S--kZOztCN_Ofa/view" >Resume</a></strong>
@@ -10,8 +10,8 @@ Programming is my passion and I love to play with the error.</h6>
 
 <a align="right" href="https://app.daily.dev/asraful196"><img  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"  height="300" border-Radius="50" alt="Asraful's Dev Card"/></a>
 
-## 🙋‍♂️ About Me
-
+<!-- ## 🙋‍♂️ About Me -->
+<h6 align="left">
 - 🔭 I’m currently working on **BookShelf management system and NodeJs**
 
 - 🌱 I’m currently learning **React & Data Science**
@@ -23,7 +23,7 @@ Programming is my passion and I love to play with the error.</h6>
 - 📫 How to reach me **[asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)**
 
 - ⚡ Fun fact **I Love to play cricket**
-
+</h6>
 ## <a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:
 
 <p align="left"> 
