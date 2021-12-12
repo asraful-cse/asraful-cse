@@ -34,15 +34,15 @@ width="300"   alt="Asraful's Dev Card"/> </a>
  <h4  align="right">Connect with me:</h4>
 <p align="right">
 <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
-<a href = "https://www.linkedin.com/in/asraful196/"><img  align="right" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://web.facebook.com/sunnyashraf12"><img   align="right" src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/sunnyashraf12/"><img  align="right" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = ""><img  align="right" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/asraful196/"><img  src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://web.facebook.com/sunnyashraf12"><img  src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.instagram.com/sunnyashraf12/"><img  src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 <h4 align="right">❤ Views and Followers </h4>
 <a align="right" href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img align="right" src="https://komarev.com/ghpvc/?username=asraful196">
+    <img  src="https://komarev.com/ghpvc/?username=asraful196">
 </a>
 <a align="right" href="https://github.com/asraful196?tab=followers"><img src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a>
 
