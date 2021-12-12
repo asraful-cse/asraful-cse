@@ -42,9 +42,9 @@ Programming is my passion and I love to play with the error.</p>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img  alt="typescript"width="47" height="47" src="https://i.giphy.com/media/QVJjJ7dtzJkWCs7TpP/giphy.webp"/></a>
         <a href="https://getbootstrap.com" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp?cid=ecf05e47l8yuim4n2ucgbqfs5ghaqqzkb280j89rfh9gv4e1&rid=200w.webp&ct=s"/> </a>
    <a href="#" target="https://react-bootstrap.github.io/"> <img  width="48" height="48" src="https://justinmahar.gallerycdn.vsassets.io/extensions/justinmahar/react-bootstrap-snippets/2.0.13/1635010788809/Microsoft.VisualStudio.Services.Icons.Default"/> </a> 
-     <a href="#" target="https://tailwindcss.com/"> <img  width="48" height="48" src="https://media3.giphy.com/media/Vi5ogXQO4mzRsATl5r/200w.webp"/> </a> 
+     <a href="#" target="https://tailwindcss.com/"> <img  width="48" height="48" src="https://media3.giphy.com/media/Vi5ogXQO4mzRsATl5r/200w.webp"/> </a>
+      <a href="#" target="https://mui.com/"> <img  width="48" height="48" src="https://blog.logrocket.com/wp-content/uploads/2020/09/3waystoaddcustomfontstoyourMaterialUIproject.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img width="47" height="47" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif"/> </a>
-   
     <a href="" target="_blank"> <img src="https://cdn.dribbble.com/users/469027/screenshots/3243542/untitled-1.gif" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
  
