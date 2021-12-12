@@ -3,7 +3,7 @@
 <!-- https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif?raw=true -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm ASRAFUL</h1>
-<h3 align="center"> <a href="https://asraful-portfolio.netlify.app/" >Portfolio</a></h3> || <h3 align="center"> <a href="https://drive.google.com/file/d/1tNfWErGkZL9C2kUwi7S--kZOztCN_Ofa/view" >Resume</a></h3>
+<strong align="center"> <a href="https://asraful-portfolio.netlify.app/" >Portfolio</a></strong> || <strong align="center"> <a href="https://drive.google.com/file/d/1tNfWErGkZL9C2kUwi7S--kZOztCN_Ofa/view" >Resume</a></strong>
 
 <p>I am Asraful, a full-stack web developer from Bangladesh. I am passionate about building excellent software that improves the lives of those around me. javaScript is my first programming language. In my professional experience. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
 Programming is my passion and I love to play with the error.</p>
