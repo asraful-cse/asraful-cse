@@ -12,7 +12,7 @@ Programming is my passion and I love to play with the error.</h5>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 <a href="https://expressjs.com/" target="_blank"> <img "width="48" height="49" src="https://nashvillesoftwareschool.com/images/technologies/express.png" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
-<a href="https://reactnative.dev/docs/getting-started" target="_blank"> <img width="59" height="53" src="https://cdn.dribbble.com/users/241205/screenshots/2234093/open-uri20150908-3-uyrvht"/> </a>
+<a href="https://reactnative.dev/docs/getting-started" target="_blank"> <img width="59" height="53" src="https://miro.medium.com/max/1062/1*UOcMh43IDlvj6_cXkETQ4Q.gif"/> </a>
 <a href="#" target="_blank"> <img width="53" height="53" src="https://digitalcosmonot.com/static/assets/img/blog/api-yonetimi.gif"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=200w.webp&ct=s"/> </a>
 <a href="https://stripe.com/" target="https://stripe.com/"> <img width="40" height="46" src="https://i.pinimg.com/originals/8f/c6/a2/8fc6a20dd42803d99e5f782d03916991.gif"/> </a> 
@@ -27,12 +27,11 @@ Programming is my passion and I love to play with the error.</h5>
 <a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
 </p>         
 <br/> 
- <h2> 🙋‍♂️ About Me </h2>
+<h2> 🙋‍♂️ About Me </h2>
 <h5>
- 
 🌱 I’m currently learning React js, React Native and Next js
  
-👯 I’m looking to collaborate on **Remote Job
+👯 I’m looking to collaborate on Remote Job
  
  ##### 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful196)
  
@@ -56,13 +55,13 @@ Programming is my passion and I love to play with the error.</h5>
   <br/>
 <a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
 width="300"   alt="Asraful's Dev Card"/> </a>
-</br>    
+</br></br> 
 <a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
 </br> 
 <b>Note: Top languages is only a metric of the languages my public code consists of and doesnot reflect experience or skill level.</b>
  
-</br> 
+</br> </br> 
 <a href="https://github.com/asraful196/github-readme-activity-graph"><img alt="Shuvro Baset's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asraful196&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </br>
 <!-- 
