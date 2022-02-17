@@ -1,10 +1,9 @@
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" height="300" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm ASRAFUL</h1>
 <strong align="center"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank"  rel="noopener noreferrer">Portfolio</a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1tNfWErGkZL9C2kUwi7S--kZOztCN_Ofa/view"  rel="noopener noreferrer" >Resume</a></strong>
-<h5>I am Asraful, a Full-Stack Developer. I am passionate about building excellent software that improves the lives of those around me. I have Solid working knowledge of MongoDB, Express.js, React.js, and Node.js. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
-</h5>
+<h6>I am Asraful, a Full-Stack Developer. I am passionate about building excellent software that improves the lives of those around me. I have Solid working knowledge of MongoDB, Express.js, React.js, and Node.js. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
+</h6>
 <br/>
-
 <h3><a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img width="47" height="47"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
