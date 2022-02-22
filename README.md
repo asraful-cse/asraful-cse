@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" height="300" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm ASRAFUL</h1>
-<strong align="center"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank"  rel="noopener noreferrer">Portfolio</a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1tNfWErGkZL9C2kUwi7S--kZOztCN_Ofa/view"  rel="noopener noreferrer" >Resume</a></strong>
+<strong align="center"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank"  rel="noopener noreferrer">Portfolio</a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1dMBXIPnZJCQ7f0bGMMTw5VvH8j3I1Z6p/view?usp=sharing"  rel="noopener noreferrer" >Resume</a></strong>
 <h6>I am Asraful, a Full-Stack Developer. I am passionate about building excellent software that improves the lives of those around me. I have Solid working knowledge of MongoDB, Express.js, React.js, and Node.js. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
 </h6>
 <br/>
