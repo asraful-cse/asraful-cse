@@ -14,7 +14,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img width="47" height="47" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp"/> </a>
 <a href="https://reactnative.dev/docs/getting-started" target="_blank"> <img width="48" height="46" src="https://miro.medium.com/max/1062/1*UOcMh43IDlvj6_cXkETQ4Q.gif"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img width="48" height="46"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" /> </a>
-<a href="#" target="_blank"> <img width="53" height="53" src="https://digitalcosmonot.com/static/assets/img/blog/api-yonetimi.gif"/> </a>
+<a href="#" target="_blank"> <img width="53" height="53" src="https://davincipayments.s3.amazonaws.com/public/swift/prod/Uploads/APi_Icon_Gif.gif"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img width="47" height="47" src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/200w.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=200w.webp&ct=s"/> </a>
 <a href="https://stripe.com/" target="https://stripe.com/"> <img width="40" height="46" src="https://i.pinimg.com/originals/8f/c6/a2/8fc6a20dd42803d99e5f782d03916991.gif"/> </a> 
 <a href="https://jwt.io/" target="_blank"> <img  alt="typescript "width="47" height="47" src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A"/></a> 
