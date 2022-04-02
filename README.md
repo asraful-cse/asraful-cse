@@ -29,7 +29,7 @@
 <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img width="47" height="47" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
 </p>          
-<h1> 🙋‍♂️ About Me </h1>
+<h2> 🙋‍♂️ About Me </h2>
 
 - 🌱 I’m currently learning React js, Redux, TypeScript, React Native and Next js
 - 👯 I’m looking to collaborate on Remote Job and office job
