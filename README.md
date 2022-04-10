@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+World+👋;I+am+Asraful;React+Developer;Web+Designer;SEO+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+World+👋;I+am+Asraful;React+Developer;Web+Designer;SEO+Expert)](https://git.io/typing-svg)<br/>
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350" height="330" />
 <strong align="center"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank"  rel="noopener noreferrer">Portfolio</a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing"  rel="noopener noreferrer" >Resume</a></strong>  || <strong align="center"> <a  align="center" href="https://gitlab.com/asraful196"  rel="noopener noreferrer" >My gitlab account</a></strong>
-<h5>I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the lives of those around me. I have Solid working knowledge of MongoDB, Express.js, React.js, and Node.js. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
-
+<h5>I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the lives of those around me. I have Solid working knowledge of MongoDB, Express.js, React.js, and Node.js. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more. <br/>
     <h3> 🙋‍♂️ About Me </h3>
 - 🌱 I’m currently learning React js, Redux, TypeScript, React Native and Next js
 - 👯 I’m looking to collaborate on Remote Job and office job
