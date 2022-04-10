@@ -53,14 +53,13 @@
     <img align="right"  src="https://komarev.com/ghpvc/?username=asraful196">
 </a>
 <a align="right" href="https://github.com/asraful196?tab=followers" ><img align="right"  src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a>
-  <br/>
-  <br/>
+
 <a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
 width="300"   height="400"  alt="Asraful's Dev Card"/> </a>
-</br></br> 
-<a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="400" /></a> 
-   <a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Status" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="380" height="400"  /></a>
-</br> 
+   
+<a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Status" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="380" height="400"  /></a> 
+<a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="380" height="400" /></a> 
+
 <b>Note: Top languages is only a metric of the languages my public code consists of and doesnot reflect experience or skill level.</b>
  
 </br> </br> 
