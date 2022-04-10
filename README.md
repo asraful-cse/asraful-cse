@@ -1,6 +1,11 @@
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" height="300" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm ASRAFUL</h1>
 <strong align="center"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank"  rel="noopener noreferrer">Portfolio</a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing"  rel="noopener noreferrer" >Resume</a></strong>  || <strong align="center"> <a  align="center" href="https://gitlab.com/asraful196"  rel="noopener noreferrer" >My gitlab account</a></strong>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+World+👋;I+am+Jayed+Rashid;React+Developer;Web+Designer;SEO+Expert)](https://git.io/typing-svg)
+
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="571" height="428">
+
 ## About Me 👤
 👉 &nbsp;  &nbsp;I'm a Self‑Taught React Developer.<br>
 👉 &nbsp;  &nbsp;An aspiring Full Stack Developer.<br>
