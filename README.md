@@ -31,12 +31,13 @@
 </p> 
         
  <h3> 🙋‍♂️ About Me </h3>
- <p>       
+ 
+        <strong>
  - 🌱 I’m currently learning React js, Redux, TypeScript, React Native and Next js
  - 👯 I’m looking to collaborate on Remote Job and office job
  - 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful196)
- - 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
-        </p>    
+ - 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com) </strong>
+    
 <h4  align="left">Contact with me:</h4>
 <p align="left">
 <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
