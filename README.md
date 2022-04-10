@@ -60,9 +60,6 @@ width="300"   height="400"  alt="Asraful's Dev Card"/> </a>
 <a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Status" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="380" height="400"  /></a> 
 <a href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="380" height="400" /></a> 
 
-<b>Note: Top languages is only a metric of the languages my public code consists of and doesnot reflect experience or skill level.</b>
- 
-</br> </br> 
 <a href="https://github.com/asraful196/github-readme-activity-graph"><img alt="Asraful Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asraful196&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </br>
 
