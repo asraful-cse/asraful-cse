@@ -2,18 +2,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm ASRAFUL</h1>
 <strong align="center"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank"  rel="noopener noreferrer">Portfolio</a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing"  rel="noopener noreferrer" >Resume</a></strong>  || <strong align="center"> <a  align="center" href="https://gitlab.com/asraful196"  rel="noopener noreferrer" >My gitlab account</a></strong>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+World+👋;I+am+Jayed+Rashid;React+Developer;Web+Designer;SEO+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+World+👋;I+am+Asraful;React+Developer;Web+Designer;SEO+Expert)](https://git.io/typing-svg)
 ## About Me 👤
-👉 &nbsp;  &nbsp;I'm a Self‑Taught React Developer.<br>
-👉 &nbsp;  &nbsp;An aspiring Full Stack Developer.<br>
-👉 &nbsp;  &nbsp;Learning MERN Stack in depth.<br>
-👉 &nbsp;  &nbsp;I am pretty obsessed by JavaScript.<br>
-👉 &nbsp;  &nbsp;I deliver Search Engine Optimization (SEO) for webpages.<br>
-👉 &nbsp;  &nbsp;Currently working on some projects for my portfolio.<br>
-👉 &nbsp;  &nbsp;Working on multiple Front-End & Back-End projects using React and Nodejs.<br>
-👉 &nbsp;  &nbsp;I write articles in Medium on Web Development and UI/UX Design.<br>
-<br>
-
 <h5>I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the lives of those around me. I have Solid working knowledge of MongoDB, Express.js, React.js, and Node.js. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more.
 </h5>
 <br/><br/>
