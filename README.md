@@ -61,7 +61,7 @@ width="320"   height="480"  alt="Asraful's Dev Card"/> </a>
 <a href="https://github.com/asraful196/github-readme-activity-graph"><img alt="Shuvro Baset's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asraful196&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </br>
 
-
+<!--  
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
@@ -70,6 +70,6 @@ width="320"   height="480"  alt="Asraful's Dev Card"/> </a>
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
-
+-->
 
  
