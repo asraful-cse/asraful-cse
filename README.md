@@ -51,9 +51,9 @@
  width="370" height="460"  alt="Asraful's Dev Card"/> </a>
 <a align="left" href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Status" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="400" height="210"/></a> 
 <a align="left" href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="260" /></a> 
-<a align="left" href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img align="left"  src="https://komarev.com/ghpvc/?username=asraful196"></a>  
-<a align="left" href="https://github.com/asraful196?tab=followers"><img align="left"  src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
+<a align="center" href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<img align="center"  src="https://komarev.com/ghpvc/?username=asraful196"></a>  
+<a align="center" href="https://github.com/asraful196?tab=followers"><img align="lefcentert"  src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
 <a href="https://github.com/asraful196/github-readme-activity-graph"><img alt="Asraful Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asraful196&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <!--
    <h5 align="left"> Views and Followers </h5>
