@@ -47,7 +47,7 @@
  - 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful196)
  - 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
    </br>
-<a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
+<a align="left"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
  width="280" height="460"  alt="Asraful's Dev Card"/> </a>
       </br>
    <h5 align="right"> Views and Followers </h5>
