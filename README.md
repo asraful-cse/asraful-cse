@@ -52,7 +52,7 @@
  </br>
 <h5 align="left"> Views and Followers </h5>
 <a align="left" href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img align="left"  src="https://komarev.com/ghpvc/?username=asraful196"></a>  
+<img align="right"  src="https://komarev.com/ghpvc/?username=asraful196"></a>  
 <a align="right" href="https://github.com/asraful196?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a>
 </br>
 <a align="left" href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Status" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="400" height="200"/></a> 
