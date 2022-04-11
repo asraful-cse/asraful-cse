@@ -48,8 +48,7 @@
  - 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
    </br>
 <a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
- width="280" height="400"  alt="Asraful's Dev Card"/> </a>
- </br>
+ width="380" height="480"  alt="Asraful's Dev Card"/> </a>
 <h5 align="right"> Views and Followers </h5>
 <a align="right" href="https://github.com/Meghna-DAS/github-profile-views-counter">
 <img align="right"  src="https://komarev.com/ghpvc/?username=asraful196"></a>  
