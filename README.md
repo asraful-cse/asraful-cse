@@ -2,8 +2,8 @@
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" height="200" />
 <strong align="center"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank"  rel="noopener noreferrer">Portfolio</a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing"  rel="noopener noreferrer" >Resume</a></strong>  || <strong align="center"> <a  align="center" href="https://gitlab.com/asraful196"  rel="noopener noreferrer" >My gitlab account</a></strong>
 
-<h5>I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the lives of those around me. I have Solid working knowledge of MongoDB, Express.js, React.js, and Node.js. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more. 
-</h5> 
+<h4>I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the lives of those around me. I have Solid working knowledge of MongoDB, Express.js, React.js, and Node.js. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more. 
+</h4> 
 <br/> <br/> 
 <h4><a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:</h4>
 <p align="left"> 
@@ -53,7 +53,7 @@
 <a align="left" href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="250" /></a> 
 <a align="left" href="https://github.com/Meghna-DAS/github-profile-views-counter">
 <img align="left"  src="https://komarev.com/ghpvc/?username=asraful196"></a>  
-<a align="left" href="https://github.com/asraful196?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
+<a align="left" href="https://github.com/asraful196?tab=followers"><img align="left"  src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
 <a href="https://github.com/asraful196/github-readme-activity-graph"><img alt="Asraful Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asraful196&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <!--
    <h5 align="left"> Views and Followers </h5>
