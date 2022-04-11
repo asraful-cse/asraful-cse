@@ -48,7 +48,7 @@
  - 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
    </br>
 <a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
- width="380" height="480"  alt="Asraful's Dev Card"/> </a>
+ width="370" height="460"  alt="Asraful's Dev Card"/> </a>
 <a align="left" href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Status" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="400" height="200"/></a> 
 <a align="left" href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="250" /></a> 
 <h5 align="right"> Views and Followers </h5>
