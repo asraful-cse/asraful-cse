@@ -40,7 +40,7 @@
 <a href = ""><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
 </p>
          
- <h3> 🙋‍♂️ About Me </h3>
+ <h4> 🙋‍♂️ About Me </h4>
  
  - 🌱 I’m currently learning React js, Redux, TypeScript, React Native and Next js
  - 👯 I’m looking to collaborate on Remote Job and office job
