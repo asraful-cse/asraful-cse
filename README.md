@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I+am+Asraful;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg) </br>
-<strong align="left"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank"  rel="noopener noreferrer">Portfolio</a></strong> || <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing"  rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://gitlab.com/asraful196"  rel="noopener noreferrer" >My gitlab account</a></strong>
+<h6>
+   <strong align="left"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank"  rel="noopener noreferrer">Portfolio</a></strong> || <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing"  rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://gitlab.com/asraful196"  rel="noopener noreferrer" >My gitlab account</a></strong>
+</h6>
 <h5 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="700" height="400" /><h5>
    <h4 align="left">I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the 
    lives of those around me. I have Solid working knowledge of MongoDB,
