@@ -3,9 +3,8 @@
 <h6 align="right">
 <img   alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" height="200" /> 
 </h6>
-<h6>I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the lives of those around me. I have Solid working knowledge of MongoDB, Express.js, React.js, and Node.js. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more. 
+<h6 align="left">I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the lives of those around me. I have Solid working knowledge of MongoDB, Express.js, React.js, and Node.js. Now I am trying to learn more technologies and tools. So far I have finished some projects using React-js, Node-js, Express-js, MongoDB, Firebase and many more. 
 </h6>
-
 <br/> <br/> 
 <h3><a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:</h4>
 <p align="left"> 
