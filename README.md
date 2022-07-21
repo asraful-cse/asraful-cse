@@ -5,7 +5,7 @@
 <h4 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h4>
    <h5 align="left">I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the 
    lives of those around me. I have Solid working knowledge of MongoDB,
-   Express.js, React.js, and Node.js. Now I am trying 
+   Express.js, React.js, ReactNative.js, TypeScripe.js, Next.js and Node.js. Now I am trying 
    to learn more technologies and tools. So far
    I have finished some projects using React-js,
    Node-js, Express-js, MongoDB, Firebase and many more. 
