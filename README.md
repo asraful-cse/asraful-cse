@@ -7,7 +7,7 @@
    lives of those around me. I have Solid working knowledge of MongoDB,
    Express.js, React.js, ReactNative.js, TypeScript, Next.js and Node.js. Now I am trying 
    to learn more technologies and tools. So far
-   I have finished some projects using React-js,
+   I have finished some projects using React-js, React-native-js
    Node-js, Express-js, MongoDB, Firebase and many more. 
 </h4> 
 <br/> <br/> 
