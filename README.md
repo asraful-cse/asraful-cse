@@ -10,7 +10,7 @@
    I have finished some projects using React-js, React-native-js
    Node-js, Express-js, MongoDB, Firebase and many more. 
 </h5> 
-<br/> <br/> 
+<br/> 
 <h4><a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:</h4>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img width="47" height="47"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
