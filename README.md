@@ -2,7 +2,7 @@
 <h5>
    <strong align="left"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank"  rel="noopener noreferrer">Portfolio</a></strong> || <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing"  rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://gitlab.com/asraful196"  rel="noopener noreferrer" >My gitlab account</a></strong>
 </h5>
-<h3 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h3>
+<h4 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h4>
    <h5 align="left">I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the 
    lives of those around me. I have Solid working knowledge of MongoDB,
    Express.js, React.js, ReactNative.js, TypeScript, Next.js and Node.js. Now I am trying 
