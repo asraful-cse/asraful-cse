@@ -3,14 +3,14 @@
    <strong align="left"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> || <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing" target="_blank" rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://gitlab.com/asraful1966" target="_blank"  rel="noopener noreferrer" >My gitlab account</a></strong> 
 
 </h5>
-<h3 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h3>
-   <h3 align="left">I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the 
+<h2 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h3>
+   <h2 align="left">I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the 
    lives of those around me. I have Solid working knowledge of MongoDB,
    Express.js, React.js, ReactNative.js, TypeScript, Next.js and Node.js. Now I am trying 
    to learn more technologies and tools. So far
    I have finished some projects using React-js, React-native-js
    Node-js, Express-js, MongoDB, Firebase and many more. 
-</h3> 
+</h2> 
 <br/> 
 <h4><a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> Languages and Tools:</h4>
 <p align="left"> 
