@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I+am+Asraful;I+am+a+FRONT-END+Developer;I+am+a+React.JS+Developer)](https://git.io/typing-svg) </br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I+am+Asraful;I+am+a+FRONT-END+Developer;I+am+a+React.JS+Developer;I+am+a+JavaSript+Developer)](https://git.io/typing-svg) </br>
 <h5>
    <strong align="left"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> || <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing" target="_blank" rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://gitlab.com/asraful1966" target="_blank"  rel="noopener noreferrer" >My gitlab account</a></strong> 
 
 </h5>
 <h2 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h3>
-   <h2 align="left">I am Asraful, a MERN-Stack Developer. I am passionate about building excellent software that improves the 
-   lives of those around me. I have Solid working knowledge of MongoDB,
-   Express.js, React.js, ReactNative.js, TypeScript, Next.js and Node.js. Now I am trying 
+   <h2 align="left">I am Asraful, a FRONT-END Developer. I am passionate about building excellent software that improves the 
+   lives of those around me. I have Solid working knowledge of JavaScript, React.js, Next.js, TypeScript,  React Router DOM, React Hook Form, Rest API, Firebase Authentication & Hosting, OOP, Google Map, JWT, Stripe, HTML-5, CSS-3, React Bootstrap, Bootstrap, Tailwind-CSS, Material UI and basic knowledge Node.js MongoDB,
+   Express.js. Now I am trying 
    to learn more technologies and tools. So far
    I have finished some projects using React-js, React-native-js
    Node-js, Express-js, MongoDB, Firebase and many more. 
@@ -49,7 +49,7 @@
          
  <h3> 🙋‍♂️ About Me </h3>
  
- - 🌱 I’m currently learning React js, Redux, TypeScript, React Native and Next js
+ - 🌱 I’m currently learning React js, Next js Redux, TypeScript, Node.js and React Native. 
  - 👯 I’m looking to collaborate on Remote Job and office job
  - 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful196)
  - 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
