@@ -49,7 +49,7 @@
          
  <h3> 🙋‍♂️ About Me </h3>
  
- - 🌱 I’m currently learning React js, Next js Redux, TypeScript, Node.js and React Native. 
+ - 🌱 I’m currently learning React js, Next js, Redux, TypeScript, Node.js and React Native. 
  - 👯 I’m looking to collaborate on Remote Job and office job
  - 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful196)
  - 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
