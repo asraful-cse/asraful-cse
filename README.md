@@ -4,7 +4,7 @@
 
 </h5>
 <h2 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h3>
-   <h2 align="left">I am Asraful, a FRONT-END Developer. I am passionate about building excellent software that improves the 
+   <h2 align="left">I am Asraful, a Front-End Developer. I am passionate about building excellent software that improves the 
    lives of those around me. I have Solid working knowledge of JavaScript, React.js, Next.js, TypeScript,  React Router DOM, React Hook Form, Rest API, Firebase Authentication & Hosting, OOP, Google Map, JWT, Stripe, HTML-5, CSS-3, React Bootstrap, Bootstrap, Tailwind-CSS, Material UI and basic knowledge Node.js MongoDB,
    Express.js, and React native. Now I am trying 
    to learn more technologies and tools. So far
