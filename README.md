@@ -3,7 +3,9 @@
    <strong align="left"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> || <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing" target="_blank" rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://gitlab.com/asraful1966" target="_blank"  rel="noopener noreferrer" >My gitlab account</a></strong> 
 
 </h5>
-<h2 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h3>
+<!-- <h2 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h3> -->
+
+<h2 align="center"><img  alt="GIF" src="https://miro.medium.com/v2/resize:fit:828/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" width="500" height="300" /><h3> 
    <h2 align="left">I am Asraful, a Front-End Developer. I am passionate about building excellent software that improves the 
    lives of those around me. I have Solid working knowledge of JavaScript, React.js, Next.js, TypeScript,  React Router DOM, React Hook Form, Rest API, Firebase Authentication & Hosting, OOP, Google Map, JWT, Stripe, HTML-5, CSS-3, React Bootstrap, Bootstrap, Tailwind-CSS, Material UI and basic knowledge Node.js MongoDB,
    Express.js, and React native. Now I am trying 
