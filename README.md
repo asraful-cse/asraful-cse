@@ -63,7 +63,8 @@
 <a align="left" href="https://github.com/Meghna-DAS/github-profile-views-counter">
 <img align="left"  src="https://komarev.com/ghpvc/?username=asraful196"></a>  
 <a align="right" href="https://github.com/asraful196?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
-<a href="https://github.com/asraful196/github-readme-activity-graph"><img alt="Asraful Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asraful196&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+   [![Asraful's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asraful196&theme=dracula)](https://github.com/asraful196/github-readme-activity-graph)
 <!--
    <h5 align="left"> Views and Followers </h5>
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
