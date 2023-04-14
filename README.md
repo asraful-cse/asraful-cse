@@ -56,8 +56,8 @@
  - 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful-cse)
  - 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
    </br>
-<a align="right"  href="https://app.daily.dev/asraful-cse"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
- width="370" height="460"  alt="Asraful's Dev Card"/> </a>
+
+<a align="right" href="https://app.daily.dev/asraful-cse"><img align="right" src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=wu1" width="370" height="460" alt="ASRAFUL's Dev Card"/></a>
 <a align="left" href="https://github.com/asraful-cse/github-readme-stats"><img alt="asraful-cse's Github Status" src="https://github-readme-stats.vercel.app/api?username=asraful-cse&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="400" height="210"/></a> 
 <a align="left" href="https://github.com/asraful-cse/github-readme-stats"><img alt="asraful-cse's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful-cse&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="260" /></a> 
 <a align="left" href="https://github.com/Meghna-DAS/github-profile-views-counter">
