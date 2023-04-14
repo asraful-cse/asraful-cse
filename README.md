@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I+am+Asraful;I+am+a+FRONT-END+Developer;I+am+a+React.JS+Developer;I+am+a+JavaSript+Developer)](https://git.io/typing-svg) </br>
 <h5>
-   <strong align="left"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> || <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing" target="_blank" rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://gitlab.com/asraful1966" target="_blank"  rel="noopener noreferrer" >My gitlab account</a></strong> 
+   <strong align="left"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> || <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing" target="_blank" rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://gitlab.com/asraful-cse6" target="_blank"  rel="noopener noreferrer" >My gitlab account</a></strong> 
 
 </h5>
 <h2 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h3>
@@ -43,7 +43,7 @@
 <h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
-<a href = "https://www.linkedin.com/in/asraful196/"><img width="48" height="48"  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
+<a href = "https://www.linkedin.com/in/asraful-cse/"><img width="48" height="48"  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
 <a href = "https://web.facebook.com/sunnyashraf12"><img width="48" height="48" src="https://i.giphy.com/media/XEy1qyv7GdLpmqHEPV/200w.webp"/></a>
 <a href = "https://www.instagram.com/sunnyashraf12/"><img width="48" height="48"  src="https://i.giphy.com/media/3oEjHFnRdGNWCbCOXK/200w.webp"/></a>
 <a href = ""><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
@@ -53,18 +53,18 @@
  
  - 🌱 I’m currently learning React js, Next js, Redux, TypeScript, Node.js and React Native. 
  - 👯 I’m looking to collaborate on Remote Job and office job
- - 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful196)
+ - 👨‍💻 All of my projects are available at [coming soon](https://https://github.com/asraful-cse)
  - 📫 How to reach me [asraful.01110@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asraful.01110@gmail.com)
    </br>
-<a align="right"  href="https://app.daily.dev/asraful196"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
+<a align="right"  href="https://app.daily.dev/asraful-cse"> <img align="right"  src="https://api.daily.dev/devcards/bbea0af2096b45148696eff3eac4a3c0.png?r=1pk"
  width="370" height="460"  alt="Asraful's Dev Card"/> </a>
-<a align="left" href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Github Status" src="https://github-readme-stats.vercel.app/api?username=asraful196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="400" height="210"/></a> 
-<a align="left" href="https://github.com/asraful196/github-readme-stats"><img alt="asraful196's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful196&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="260" /></a> 
+<a align="left" href="https://github.com/asraful-cse/github-readme-stats"><img alt="asraful-cse's Github Status" src="https://github-readme-stats.vercel.app/api?username=asraful-cse&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  width="400" height="210"/></a> 
+<a align="left" href="https://github.com/asraful-cse/github-readme-stats"><img alt="asraful-cse's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful-cse&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400" height="260" /></a> 
 <a align="left" href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img align="left"  src="https://komarev.com/ghpvc/?username=asraful196"></a>  
-<a align="right" href="https://github.com/asraful196?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/asraful196?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
+<img align="left"  src="https://komarev.com/ghpvc/?username=asraful-cse"></a>  
+<a align="right" href="https://github.com/asraful-cse?tab=followers"><img align="right"  src="https://img.shields.io/github/followers/asraful-cse?label=Followers&style=social" alt="GitHub Badge"></a> <br/>
 
-   [![Asraful's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asraful196&theme=dracula)](https://github.com/asraful196/github-readme-activity-graph)
+   [![Asraful's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asraful-cse&theme=dracula)](https://github.com/asraful-cse/github-readme-activity-graph)
 <!--
    <h5 align="left"> Views and Followers </h5>
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
@@ -75,6 +75,4 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
--->
-
- 
+--></h2>
