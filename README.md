@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I+am+Asraful;I+am+a+FRONT-END+Developer;I+am+a+React.JS+Developer;I+am+a+JavaSript+Developer)](https://git.io/typing-svg) </br>
 <h5>
-   <strong align="left"> <a align="center" href="https://asraful-portfolio.netlify.app/" target="_blank" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> || <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing" target="_blank" rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://gitlab.com/asraful1966" target="_blank"  rel="noopener noreferrer" >My gitlab account</a></strong> 
+   <strong align="left"> <a align="center" href="https://portfolio-asraful.web.app" target="_blank" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> || <strong align="left"> <a  align="left" href="https://drive.google.com/file/d/1uVDPf7Q3HZxRwNqKCpezu35NYJRQzPuy/view?usp=sharing" target="_blank" rel="noopener noreferrer" >Resume</a></strong>  || <strong align="left"> <a  align="center" href="https://gitlab.com/asraful1966" target="_blank"  rel="noopener noreferrer" >My gitlab account</a></strong> 
 
 </h5>
 <h2 align="center"><img  alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" height="300" /><h3>
